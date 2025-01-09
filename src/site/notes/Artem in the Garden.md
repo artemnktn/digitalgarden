@@ -3,4 +3,5 @@
 ---
 
 this is the firs seed in the garden - yooo
-	
+
+[[what is the digital garden\|what is the digital garden]]
