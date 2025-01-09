@@ -2,12 +2,5 @@
 {"dg-publish":true,"permalink":"/artem-in-the-garden/","tags":["gardenEntry"]}
 ---
 
-
-
-выжщвалывжалж [[create a link\|create a link]]
-ывадлыв
-тывдла
-выжщвалывжалж
-ы
-**[digitalgarden](https://github.com/Nikitinartem/digitalgarden)**
-
+this is the firs seed in the garden - yooo
+	
